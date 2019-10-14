@@ -1,0 +1,55 @@
+Building Blocks of optimisation problems:
+
+1: Household tranformation (Nealder and Mead Algorithms)
+2: Rotation of the cordinate system (in variable metric Algorithms,
+   such as covariance matrix adaptation, to acheieve seprabitlity,
+   and allow for parallel computation)
+3: Automatic differentiation (computing derivatives of algorithimically
+   defined function, thus applying methods of smooth optimisation to 
+   non smooth funcitons)
+
+
+Stochastic local search methods
+
+1: Simulated Annealing
+2: Tabu search
+3: Iterated local search
+4: Evolutionary Algorithms
+5: Ant colony optimisation
+
+
+Stochastic search behaviour
+
+1: Empirical evaluation
+2: Search space charachteristics
+3: Parmeterisation and tuning 
+
+Applications:
+
+1: SAT
+2: Traverling salesman problem
+3: Quadratic assignment problem
+4: Schedualing
+5: Planning 
+6: Combinatorial problems
+
+My Combinatorial Problems:
+
+1: Elliot waves
+2: Automaticaly learning the structure of a huge code base
+3: Optimal diet
+
+
+1: -4 < x < -2.5
+    -18/-4 = 6
+    -5/-2.5 = 2
+
+2: -2.5 < x < -1 [-2.4, -1.1]
+    -5\-2.5 =  2 
+    -1\-3 = 0.333
+
+3: 2 < x < 4
+    -8\2.5 = -3.2
+    -12\2.9 = -4.1
+
+    
